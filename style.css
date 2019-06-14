@@ -1,0 +1,15 @@
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    margin: 16px;
+}
+
+h1, h2, h3 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+}
+
+#funcionClave {
+    padding: 8px;
+}
